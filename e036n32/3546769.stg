@@ -1,0 +1,5 @@
+OBJECT_BASE 3546769.btg
+OBJECT OJMF.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml 36.247287 32.365933 679.4 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 36.271277 32.346970 671.8 0.00
+OBJECT_SHARED Models/Airport/beacon.xml 36.260378 32.357532 675.9 0.00

@@ -1,0 +1,5 @@
+OBJECT_BASE 3530483.btg
+OBJECT OLRA.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml 35.975293 33.841677 -9999.0 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 36.000192 33.859867 921.7 0.00
+OBJECT_SHARED Models/Airport/beacon.xml 35.986553 33.851797 909.0 0.00
